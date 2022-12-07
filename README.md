@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stuce-bot
 - 👀 I’m interested in Tetris
-- 🌱 I’m currently learning Super T-spin double
-- 💞️ I’m looking to collaborate on reaching S+ on Tetr.io ladder
+- 🌱 I’m currently learning to contribute via github
+- 💞️ I’m looking to collaborate on having good open source solutions
 - 📫 How to reach me ...  I wonder.
 
 <!---
