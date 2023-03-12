@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stuce-bot
-- 👀 I’m interested in Coding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning to contribute via github
 - 💞️ I’m looking to collaborate on having good open source solutions
 - 📫 How to reach me : lefabricesaucy@outlook.com
