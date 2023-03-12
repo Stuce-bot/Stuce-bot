@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Stuce-bot
-- 👀 I’m interested in Tetris
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning to contribute via github
 - 💞️ I’m looking to collaborate on having good open source solutions
-- 📫 How to reach me ...  I wonder.
+- 📫 How to reach me : lefabricesaucy@outlook.com
 
 <!---
 Stuce-bot/Stuce-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
